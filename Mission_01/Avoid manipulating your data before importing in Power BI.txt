@@ -1,0 +1,7 @@
+Avoid exporting data from Power BI back to Excel.
+
+Recommendation: Never manipulate your data in Excel before importing to Power BI
+
+Avoid manual work. Let Power BI work for you.
+
+Warning: Don't try to export, and then use Excel and go back to Power BI.

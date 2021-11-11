@@ -1,0 +1,13 @@
+Power BI --> Extract, Transform, Moedling, Calculation, Visual, Distribution, Automation
+
+Mission 01: Extract, Transform, Some Calculation and intro to Visual
+
+Mission 02: Extract, Transform, Modeling
+
+Mission 03: Calculation
+
+Mission 04: Calculation
+
+Mission 05: Visual
+
+Mission 06: Distribution & Automation

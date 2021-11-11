@@ -1,0 +1,14 @@
+Calculated Columns = not good --> use measures instead
+
+Example:
+
+Sales[OrderQuantity] * Sales[UnitPrice]
+
+---------
+IN a measure you have to always aggregate a column or more columns
+
+Example
+
+= SUM(Sales[OrderQuantity] * Sales[UnitPrice]) --> error
+
+= SUM(Sales[OrderQuantity]) * SUM(Sales[UnitPrice]) --> works by aggregating columns individually. Value is INCORRECT

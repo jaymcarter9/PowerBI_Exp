@@ -1,0 +1,15 @@
+Use SUMX
+
+SUMX = funtction that introduces a row context to a filter context
+
+// - to comment in formula bar
+
+GrossSalesMeasure = SUM(Sales[OrderQuantity]) * SUM(Sales[UnitPrice]) -->
+
+GrossSalesMeasure = //Shift+Enter to break lines
+SUMX(
+    Sales,
+    Sales[UnitPrice] * Sales[OrderQuantity]
+)
+
+See Word Document of same name for further information

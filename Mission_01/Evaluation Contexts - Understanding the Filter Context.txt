@@ -1,0 +1,9 @@
+Filter context generates different subset of Data
+
+Example:
+
+Region = Center-West
+Category Name = Carbs
+Business Type = Warehouse
+
+Total Quantity = 3

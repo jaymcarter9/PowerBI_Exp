@@ -1,0 +1,9 @@
+Gross Margin = unit price * quantity - unit cost x quantity
+
+GM% = (unit price * quantity - unit cost x quantity) / (unit price x quantity) --> GM% = (Unit price - unit cost)/ Unit price
+
+GM% ~ Unit Price / Unit Cost
+
+If unit cost goes down, gross margin percentage goes up
+
+If unit price goes down, gross margin percentage goees down

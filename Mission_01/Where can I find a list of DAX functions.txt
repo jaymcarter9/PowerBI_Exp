@@ -1,0 +1,30 @@
+The DAX Guide
+
+dax.guide/#
+
+Includes all functions such as:
+
+Aggregation functions
+Date and Time Functions
+Filter Functions
+Financial Functions
+Information Functions
+Logical functions
+Math and Trig Functions
+Other functions
+Relationships management functions
+Statistical functions
+Table maniuplation functions
+Text functions
+Time Intelligence functions
+----------------------------
+Example:
+
+Aggregation functions
+
+AVERAGE --> returns the average(arithmetic mean) of all the numbers in a column
+AVERAGEX --> Calculates the average (arithmetic mean) of a set of experessions evaluated over a table.
+
+Sytax of AVERAGEX
+
+AVERAGEX ( <TABLE>, <Expression> )
